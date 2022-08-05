@@ -1,0 +1,45 @@
+Rep,Item,Units,UnitCost,Unit Ordered,Date OF Order,Region
+Jones,Pencil,95,1.99,45,1/6/2020,East
+Kivell,Erasser,50,19.99,66,1/23/2020,Central
+Jardine,Book,36,4.99,77,2/9/2020,Central
+Gill,leather,27,19.99,5,2/26/2020,Central
+Sorvino,purse,56,2.99,98,3/15/2020,West
+Jones,wallet,60,4.99,32,4/1/2020,East
+Andrews,hair band,75,1.99,6,4/18/2020,Central
+Jardine,stapler,90,4.99,78,5/5/2020,Central
+Thompson,duster,32,1.99,45,5/22/2020,West
+Jones,mobile,60,8.99,12,6/8/2020,East
+Morgan,charger,90,4.99,56,6/25/2020,Central
+Howard,desk,29,1.99,76,7/12/2020,East
+Parent,Tissue,81,19.99,0.00,7/29/2020,East
+Jones,jar,35,4.99,56,8/15/2020,East
+Smith,pot,2,125,12,9/1/2020,Central
+Jones,Flower,16,15.99,13,9/18/2020,East
+Morgan,calculator,28,8.99,5,10/5/2020,Central
+Jones,knife,64,8.99,43,10/22/2020,East
+Parent,shampo,15,19.99,25,11/8/2020,East
+Kivell,soap,96,4.99,56,11/25/2020,Central
+Smith,detergent,67,1.29,18,12/12/2020,Central
+Parent,bag,74,15.99,55.00,12/29/2020,East
+Gill,scale,46,8.99,46,1/15/2021,Central
+Smith,plate,87,15,35.00,2/1/2021,Central
+Jones,spone,4,4.99,11,2/18/2021,East
+Sorvino,forke,7,19.99,1,3/7/2021,West
+Jardine,pan,50,4.99,23,3/24/2021,Central
+Andrews,mug,66,1.99,66,4/10/2021,Central
+Howard,leather bag,96,4.99,34,4/27/2021,East
+Gill,shoes,53,1.29,67,5/14/2021,Central
+Gill,table,80,8.99,71,5/31/2021,Central
+Kivell,pillow,5,125,22,6/17/2021,Central
+Jones,Pen Set,62,4.99,86,7/4/2021,East
+Morgan,powder,55,12.49,33,7/21/2021,Central
+Kivell,lipistick,42,23.95,48.00,8/7/2021,Central
+Sorvino,liner,3,275,41,8/24/2021,West
+Gill,chair,7,1.29,15,9/10/2021,Central
+Sorvino,bed,76,1.99,56,9/27/2021,West
+Thompson,towel,57,19.99,98.00,10/14/2021,West
+Andrews,T-Shirt,14,1.29,49,10/31/2021,Central
+Jardine,earphones,11,4.99,40,11/17/2021,Central
+Jardine,motherboard,94,19.99,29.00,12/4/2021,Central
+Andrews,graphic card,28,4.99,60,12/21/2021,Central
+,,,,```````````,,
